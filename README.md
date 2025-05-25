@@ -1,6 +1,6 @@
 # Halo semua! 
 Perkenalkan nama saya **Muhammad Rifgi Alghifari**.\
-Saya seorang **Web Developer** di [Dicoding](https://www.dicoding.com/).\
+Saya adalah Lulusan Teknik Informatika di Universitas Telkom Purwokerto.\
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
  
  
